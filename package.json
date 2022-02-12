@@ -3,6 +3,8 @@
 	"displayName": "Manage Opened Files",
 	"description": "Listing openned files vertically in activity panel",
 	"version": "0.0.1",
+	"author": {"name": "Thor Pham", "email": "thanhquocuit@gmail.com", "url": "https://github.com/thanhquocuit"},
+	"repository": {"url": "https://github.com/thanhquocuit/vscode-manage-opened-files"},
 	"engines": {
 		"vscode": "^1.63.0"
 	},
